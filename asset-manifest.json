@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.297728b7.css",
-    "main.js": "/static/js/main.93ad220f.js",
-    "static/js/787.c4a032c6.chunk.js": "/static/js/787.c4a032c6.chunk.js",
-    "static/media/body-background.9e7d96f6.png": "/static/media/body-background.9e7d96f6.9e7d96f6af5373ca1771.png",
-    "static/media/clear-background.svg": "/static/media/clear-background.f141243a47518d51960c.svg",
-    "static/media/cloudy-background.svg": "/static/media/cloudy-background.ea522c8ee064d5c7b24d.svg",
-    "static/media/Lexend-VariableFont_wght.ttf": "/static/media/Lexend-VariableFont_wght.ca595aeaae636593c5fe.ttf",
-    "static/media/rainy-background.svg": "/static/media/rainy-background.64f8db7c1c3a478f5620.svg",
-    "static/media/snowy-background.svg": "/static/media/snowy-background.4f0ae614b30d818e15f0.svg",
-    "static/media/partly-cloudy-background.svg": "/static/media/partly-cloudy-background.2d5150cca352d929f6b6.svg",
-    "static/media/partly-cloudy-night-background.svg": "/static/media/partly-cloudy-night-background.86bc226b651167585b15.svg",
-    "static/media/foggy-background.svg": "/static/media/foggy-background.3d12e2f7b56e2a21cf9e.svg",
-    "static/media/sunny-background.svg": "/static/media/sunny-background.a120d9800c301df07422.svg",
-    "index.html": "/index.html",
-    "main.297728b7.css.map": "/static/css/main.297728b7.css.map",
-    "main.93ad220f.js.map": "/static/js/main.93ad220f.js.map",
-    "787.c4a032c6.chunk.js.map": "/static/js/787.c4a032c6.chunk.js.map"
+    "main.css": "/world-clock/static/css/main.a6ad0524.css",
+    "main.js": "/world-clock/static/js/main.38ce4d2b.js",
+    "static/js/787.c4a032c6.chunk.js": "/world-clock/static/js/787.c4a032c6.chunk.js",
+    "static/media/body-background.9e7d96f6.png": "/world-clock/static/media/body-background.9e7d96f6.9e7d96f6af5373ca1771.png",
+    "static/media/clear-background.svg": "/world-clock/static/media/clear-background.f141243a47518d51960c.svg",
+    "static/media/cloudy-background.svg": "/world-clock/static/media/cloudy-background.ea522c8ee064d5c7b24d.svg",
+    "static/media/Lexend-VariableFont_wght.ttf": "/world-clock/static/media/Lexend-VariableFont_wght.ca595aeaae636593c5fe.ttf",
+    "static/media/rainy-background.svg": "/world-clock/static/media/rainy-background.64f8db7c1c3a478f5620.svg",
+    "static/media/snowy-background.svg": "/world-clock/static/media/snowy-background.4f0ae614b30d818e15f0.svg",
+    "static/media/partly-cloudy-background.svg": "/world-clock/static/media/partly-cloudy-background.2d5150cca352d929f6b6.svg",
+    "static/media/partly-cloudy-night-background.svg": "/world-clock/static/media/partly-cloudy-night-background.86bc226b651167585b15.svg",
+    "static/media/foggy-background.svg": "/world-clock/static/media/foggy-background.3d12e2f7b56e2a21cf9e.svg",
+    "static/media/sunny-background.svg": "/world-clock/static/media/sunny-background.a120d9800c301df07422.svg",
+    "index.html": "/world-clock/index.html",
+    "main.a6ad0524.css.map": "/world-clock/static/css/main.a6ad0524.css.map",
+    "main.38ce4d2b.js.map": "/world-clock/static/js/main.38ce4d2b.js.map",
+    "787.c4a032c6.chunk.js.map": "/world-clock/static/js/787.c4a032c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.297728b7.css",
-    "static/js/main.93ad220f.js"
+    "static/css/main.a6ad0524.css",
+    "static/js/main.38ce4d2b.js"
   ]
 }
